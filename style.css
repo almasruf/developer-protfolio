@@ -10,20 +10,28 @@ p img{
        color: red;
        
    } 
+   .section_one{
+       background-image: url(images/Frame\ 58.jpg);
+       background-repeat: no-repeat;
+   }
 
-}
-.section_one{
-    background-image: ;
-}
+
+    
+    
+
+   
+   
+
 section{
     height: 400px;
     padding-bottom: 150px;
     display: flex;
+    margin-bottom: 100px;
 }
 
-}
+
 h1{
-    font-size: 50px;
+    font-size: 40px;
 }
 
 
@@ -42,8 +50,15 @@ h1{
 .ancor-button{
     text-decoration: none;
     padding: 10px 40px;
-    border-radius:10%;
+    border-radius:20%;
     background: linear-gradient( orange, tomato);
     font-weight: 700;
     color: white;
+}
+#width{
+    width: 60%;
+}
+.section-two{
+    background-image: url(images/Frame\ 59.jpg);
+    background-repeat: no-repeat;
 }
